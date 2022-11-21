@@ -1,4 +1,6 @@
-//Create a class named anyShape with data member as a width , height of float type and make Constructors and appropriate access modifier then list and draw Base class  and Derived class named as Rectangle , Triangle , Elipse , Square , Circle and  then also show polymorphism with multiple inheritance and implementing abstract class and interface then put the user’s data into a file and display a data from a file 
+//Create a class named anyShape with data member as a width , height of float type and make Constructors and appropriate access modifier then list and draw
+// Base class  and Derived class named as Rectangle , Triangle , Elipse , Square , Circle and  then also show polymorphism with multiple inheritance and implementing
+// abstract class and interface then put the user’s data into a file and display a data from a file.
 #include <iostream>
 #include <fstream>
 using namespace std;
